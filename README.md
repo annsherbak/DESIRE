@@ -7,3 +7,4 @@
 • для сборки используется GULP <br/>
 • Полная адаптация под все виды устройств <br/>
  
+https://github.com/annsherbak/Desire/scrin.png
